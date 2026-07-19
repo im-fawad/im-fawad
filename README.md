@@ -94,22 +94,22 @@
 # 💻 Currently Coding
 
 ```dart
-class Fawad {
+class Developer {
+  final String name = "Fawad";
   final String role = "Flutter Developer";
-  final String location = "Pakistan";
 
-  final List<String> learning = [
+  List<String> skills = [
     "Flutter",
+    "Dart",
     "Supabase",
     "Laravel",
     "NestJS",
   ];
 
-  void keepCoding() {
-    while (true) {
-      buildAmazingApps();
-      keepLearning();
-    }
+  Future<void> buildFuture() async {
+    learn();
+    code();
+    repeat();
   }
 }
 ```
