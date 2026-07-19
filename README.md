@@ -18,7 +18,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=im-fawad&style=for-the-badge&color=6d28d9&labelColor=0d1117&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/im-fawad?style=for-the-badge&color=0891b2&labelColor=0d1117&label=FOLLOWERS&logo=github" />
-<img src="https://img.shields.io/github/stars/im-fawad?style=for-the-badge&color=00f5ff&labelColor=0d1117&label=STARS&logo=github" />
 
 </div>
 
@@ -28,9 +27,7 @@
 
 <br/>
 
-## <img src="https://media.tenor.com/CmOueVBk9AsAAAAi/coding-web-designer.gif" width="35"/> About Me
-
-<img align="right" src="https://media.giphy.com/media/eN2Y4Wk4arDgOr6nkc/giphy.gif" width="320"/>
+## 👨‍💻 About Me
 
 - 🎯 I'm a **Flutter Developer** focused on building smooth, scalable, and beautifully designed cross-platform mobile applications.
 - 🧠 Currently expanding my backend skills with **NestJS**, **Firebase**, and **Clean Architecture** principles.
@@ -40,15 +37,13 @@
 - 🌱 On a mission to become a **Professional Flutter & Full Stack Developer**.
 - ⚡ Based in **Rawalpindi, Pakistan** — always open to collaboration and open-source contribution.
 
-<br clear="right"/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0891b2,100:0d1117&height=3&width=100%"/>
 
 <br/>
 
 <div align="center">
 
-## <img src="https://media.tenor.com/CBn0meFEUZQAAAAi/tools-toolbox.gif" width="35"/> Tech Stack
+## 🛠️ Tech Stack
 
 <br/>
 
@@ -78,7 +73,7 @@
 
 <div align="center">
 
-## <img src="https://media.tenor.com/9dTtUaXlfw4AAAAi/stats-loading.gif" width="35"/> GitHub Analytics
+## 📊 GitHub Analytics
 
 <br/>
 
@@ -107,7 +102,7 @@
 
 <div align="center">
 
-## <img src="https://media.tenor.com/wPvCcaWkVdEAAAAi/dev-code.gif" width="35"/> Featured Projects
+## 🚀 Featured Projects
 
 </div>
 
@@ -154,11 +149,9 @@
 
 <div align="center">
 
-## <img src="https://media.tenor.com/M97vHqXtBGYAAAAi/programming-coding.gif" width="35"/> Current Focus
+## 💻 Current Focus
 
 </div>
-
-
 class Fawad extends Developer {
   final String name = "Fawad Sajid";
   final String role = "Flutter Developer";
@@ -185,7 +178,6 @@ class Fawad extends Developer {
   }
 }
 
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0891b2,100:0d1117&height=3&width=100%"/>
@@ -194,7 +186,7 @@ class Fawad extends Developer {
 
 <div align="center">
 
-## <img src="https://media.tenor.com/f7-cRQ3ihtoAAAAi/target-focus.gif" width="35"/> 2026 Goals
+## 🎯 2026 Goals
 
 | 🎯 Goal | Status |
 |:---|:---:|
@@ -214,7 +206,7 @@ class Fawad extends Developer {
 
 <div align="center">
 
-## <img src="https://media.tenor.com/2roR4Gd9EhQAAAAi/connect-network.gif" width="35"/> Connect With Me
+## 🌐 Connect With Me
 
 <a href="https://github.com/im-fawad">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0D1117" />
