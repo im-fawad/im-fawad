@@ -19,8 +19,8 @@
 | Skill | Level |
 |---|---:|
 | Flutter | █████████░ 90% |
-| Dart | ████████░░ 85% |
-| Firebase | ███████░░░ 70% |
+| Supabase | ████████░░ 85% |
+| Laravel | ███████░░░ 70% |
 | NestJS | █████░░░░░ 55% |
 
 ## 📊 GitHub Stats
