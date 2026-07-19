@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=im-fawad&style=for-the-badge&color=6d28d9"/>
-  <img src="https://img.shields.io/github/followers/im-fawad?style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -47,21 +46,13 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=im-fawad&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-fawad&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=im-fawad&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=im-fawad&theme=tokyonight&hide_border=true"/>
-</p>
-
-<br>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=im-fawad&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=im-fawad&theme=tokyo-night"/>
 </p>
 
 <p align="center">
@@ -142,11 +133,9 @@ class Fawad {
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/im-fawad">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
+  <a href="https://github.com/im-fawad">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 <p align="center">
