@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Fawad</h1>
 
 <h3 align="center">
@@ -94,4 +93,3 @@
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </h3>
-```
