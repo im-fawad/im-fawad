@@ -1,367 +1,250 @@
-<!--<h1 align="center">Hi 👋, I'm Fawad</h1>
-
-<h3 align="center">
-💻 BS Information Technology Student <br>
-🚀 Aspiring Full Stack Developer <br>
-🌱 Learning Laravel • Flutter • NestJS
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Laravel+Developer;Flutter+Developer;Backend+Enthusiast;Always+Learning+New+Things!" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🎓 BS Information Technology Student
-- 💻 Building real-world Web & Mobile Applications
-- 🌱 Currently learning **Laravel**, **Flutter**, and **NestJS**
-- 🎯 Goal: Become a Full Stack Software Engineer
-- ⚡ Love solving programming problems and creating beautiful user interfaces
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,dart,mysql" />
-</p>
-
-### Frameworks & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,flutter,nestjs,nodejs,git,github,vscode,androidstudio,postman" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=im-fawad&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-fawad&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=im-fawad&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=im-fawad&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🌟 Current Projects
-
-- 🎓 Student Management System (Laravel)
-- 🍔 Foodie Mobile App (Flutter)
-- ⚙️ Foodie Backend API (NestJS)
-- 🌐 Portfolio Website
-- 📚 Learning Git & GitHub
-
----
-
-## 📫 Connect With Me
-
-<p>
-<a href="mailto:your-fawadsajid022@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
--->
-<!-- ========================================= -->
-<!--               TOP BANNER                  -->
-<!-- ========================================= -->
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C2FF,100:7F00FF&text=Fawad&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Flutter%20Developer&descAlignY=63"/>
-</p>
-
-<h1 align="center">
-Hi 👋 I'm Fawad
-</h1>
-
-<h3 align="center">
-📱 Flutter Developer
-</h3>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Building+Beautiful+Mobile+Apps;Learning+NestJS;Future+Full+Stack+Developer;Always+Learning+New+Things"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=im-fawad&label=Profile%20Views&color=00C2FF&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/im-fawad?label=Followers&style=for-the-badge&color=7F00FF"/>
-
-<img src="https://img.shields.io/github/stars/im-fawad?style=for-the-badge&color=ffb000"/>
-
-</p>
-
----
-
-# 🚀 About Me
-
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-- 🎓 BS Information Technology Student
-
-- 📱 Flutter Developer
-
-- 🌱 Currently Learning **NestJS**
-
-- 💻 Building Beautiful Mobile Applications
-
-- 🚀 Future Full Stack Developer
-
-- 🎯 Goal: Become a Professional Software Engineer
-
-- ⚡ I love solving problems and creating amazing UI.
-
-<br>
-<br>
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nestjs,nodejs,git,github,vscode,androidstudio,postman"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=im-fawad&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-fawad&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=im-fawad&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=im-fawad&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-# ⚡ Current Focus
-
-```dart
-class Fawad {
-
- String role = "Flutter Developer";
-
- List<String> learning = [
-
- "Flutter",
-
- "NestJS",
-
- "Firebase",
-
- "Clean Architecture"
-
- ];
-
- String goal =
-
- "Build Real World Mobile Applications";
-
-}
-```
-
----
-
-<p align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216656986-3d3e7f2d-0fd6-45b7-9c4f-3f0b1db36e4b.gif" width="100%">
-
-</p>
-
-<!-- ========================================= -->
-<!--            FEATURED PROJECTS              -->
-<!-- ========================================= -->
-
-# 🚀 Featured Projects
-
 <div align="center">
 
-| Project | Description |
-|---------|-------------|
-| 🎓 Student Management System | Laravel-based student management system |
-| 🍔 Foodiez App | Flutter food ordering application |
-| ⚙️ Foodiez Backend | NestJS REST API |
-| 🌐 Portfolio Website | Personal developer portfolio |
-| 📱 Flutter UI Collection | Beautiful Flutter UI components |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1a3e,50:6d28d9,75:0891b2,100:0d1117&height=280&section=header&text=Fawad%20Sajid&fontSize=70&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Full%20Stack%20Enthusiast&descAlignY=55&descSize=20&descColor=a78bfa" width="100%"/>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Flutter+Developer+%F0%9F%92%99;Building+Cross-Platform+Mobile+Experiences;Exploring+NestJS+%26+Clean+Architecture;Crafting+Pixel-Perfect+UI+%2F+UX" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Flutter_Developer-0D1117?style=for-the-badge&logo=flutter&logoColor=00F5FF&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/BS_Information_Technology-0D1117?style=for-the-badge&logo=googlescholar&logoColor=A78BFA&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Based_in-Rawalpindi,_Pakistan-0D1117?style=for-the-badge&logo=googlemaps&logoColor=06B6D4&labelColor=0D1117" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=im-fawad&style=for-the-badge&color=6d28d9&labelColor=0d1117&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/im-fawad?style=for-the-badge&color=0891b2&labelColor=0d1117&label=FOLLOWERS&logo=github" />
+<img src="https://img.shields.io/github/stars/im-fawad?style=for-the-badge&color=00f5ff&labelColor=0d1117&label=STARS&logo=github" />
 
 </div>
 
----
+<br/>
 
-# 📊 Contribution Graph
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=3&width=100%"/>
 
-<p align="center">
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=im-fawad&theme=tokyo-night&hide_border=true"/>
+## <img src="https://media.tenor.com/CmOueVBk9AsAAAAi/coding-web-designer.gif" width="35"/> About Me
 
-</p>
+<img align="right" src="https://media.giphy.com/media/eN2Y4Wk4arDgOr6nkc/giphy.gif" width="320"/>
 
----
+- 🎯 I'm a **Flutter Developer** focused on building smooth, scalable, and beautifully designed cross-platform mobile applications.
+- 🧠 Currently expanding my backend skills with **NestJS**, **Firebase**, and **Clean Architecture** principles.
+- 🎓 Pursuing a **BS in Information Technology**, building a strong foundation in software engineering fundamentals.
+- 💜 **Flutter & Dart** are my core expertise — I also have working experience with **Laravel**, though it isn't my primary focus.
+- 🔭 I care deeply about clean code, intuitive UI/UX, and writing apps that feel premium to use.
+- 🌱 On a mission to become a **Professional Flutter & Full Stack Developer**.
+- ⚡ Based in **Rawalpindi, Pakistan** — always open to collaboration and open-source contribution.
 
-# 💻 Languages & Tools
+<br clear="right"/>
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0891b2,100:0d1117&height=3&width=100%"/>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nestjs,nodejs,git,github,vscode,androidstudio,postman,html,css,js,mysql"/>
+<br/>
 
-</p>
+<div align="center">
 
----
+## <img src="https://media.tenor.com/CBn0meFEUZQAAAAi/tools-toolbox.gif" width="35"/> Tech Stack
 
-# 🌟 My Coding Journey
+<br/>
 
-```text
-2026
+**Languages & Mobile**
 
-Flutter      ████████████████████░░ 85%
+<img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js&theme=dark" />
 
-Dart         ██████████████████░░░░ 80%
+<br/><br/>
 
-Firebase     ████████████░░░░░░░░░░ 55%
+**Backend & Database**
 
-NestJS       █████████░░░░░░░░░░░░░ 40%
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,firebase,mysql&theme=dark" />
 
-Laravel      ███████░░░░░░░░░░░░░░░ 30%
+<br/><br/>
 
-Git          ████████████████░░░░░░ 70%
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman&theme=dark" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=3&width=100%"/>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://media.tenor.com/9dTtUaXlfw4AAAAi/stats-loading.gif" width="35"/> GitHub Analytics
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=im-fawad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A78BFA&text_color=C9D1D9&ring_color=6D28D9&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-fawad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=8" width="30%" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=im-fawad&theme=tokyonight&hide_border=true&background=0D1117&stroke=6D28D9&ring=00F5FF&fire=A78BFA&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=8B949E" width="70%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=im-fawad&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5FF&line=6D28D9&point=A78BFA&area=true&area_color=0891B2" width="90%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=im-fawad&theme=darkhub&no-frame=true&margin-w=12&margin-h=12&column=4&row=2" width="80%"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0891b2,100:0d1117&height=3&width=100%"/>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://media.tenor.com/wPvCcaWkVdEAAAAi/dev-code.gif" width="35"/> Featured Projects
+
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/im-fawad">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-fawad&repo=Student-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A78BFA&text_color=C9D1D9" width="100%"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/im-fawad">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-fawad&repo=Foodiez-Flutter-App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A78BFA&text_color=C9D1D9" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/im-fawad">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-fawad&repo=Foodiez-Backend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A78BFA&text_color=C9D1D9" width="100%"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/im-fawad">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-fawad&repo=Portfolio-Website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A78BFA&text_color=C9D1D9" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/im-fawad">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-fawad&repo=Flutter-UI-Collection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A78BFA&text_color=C9D1D9" width="100%"/>
+      </a>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=3&width=100%"/>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://media.tenor.com/M97vHqXtBGYAAAAi/programming-coding.gif" width="35"/> Current Focus
+
+</div>
+
+```dart
+class Fawad extends Developer {
+  final String name = "Fawad Sajid";
+  final String role = "Flutter Developer";
+  final String location = "Rawalpindi, Pakistan";
+
+  final List<String> currentlyLearning = [
+    "Flutter",
+    "Firebase",
+    "NestJS",
+    "Clean Architecture",
+  ];
+
+  final String mainStack = "Flutter & Dart";
+  final String secondaryStack = "Laravel (working experience)";
+
+  final String goal = "Build Amazing Mobile Apps 🚀";
+
+  @override
+  void code() {
+    while (isAlive) {
+      keepLearning();
+      buildSomethingAmazing();
+    }
+  }
+}
 ```
 
----
+<br/>
 
-# 📈 GitHub Metrics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0891b2,100:0d1117&height=3&width=100%"/>
 
-<p align="center">
+<br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=im-fawad&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-fawad&layout=compact&theme=tokyonight&hide_border=true"/>
+## <img src="https://media.tenor.com/f7-cRQ3ihtoAAAAi/target-focus.gif" width="35"/> 2026 Goals
 
-</p>
+| 🎯 Goal | Status |
+|:---|:---:|
+| Master Flutter at an advanced level | 🟢 In Progress |
+| Learn Advanced Firebase (Cloud Functions, Security Rules) | 🟢 In Progress |
+| Learn NestJS for scalable backend systems | 🟢 In Progress |
+| Publish production-ready Flutter apps | 🟡 Planned |
+| Contribute to Open Source projects | 🟡 Planned |
 
----
+</div>
 
-# 🎯 2026 Goals
+<br/>
 
-- ✅ Master Flutter
-- ✅ Learn Clean Architecture
-- ✅ Build Production Apps
-- ✅ Learn NestJS Backend
-- ✅ Publish Flutter Apps
-- ✅ Contribute to Open Source
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=3&width=100%"/>
 
----
+<br/>
 
-# 📫 Connect With Me
+<div align="center">
 
-<p align="center">
-
-<a href="mailto:your-email@example.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
+## <img src="https://media.tenor.com/2roR4Gd9EhQAAAAi/connect-network.gif" width="35"/> Connect With Me
 
 <a href="https://github.com/im-fawad">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0D1117" />
+</a>
+<a href="mailto:your.email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=0D1117" />
+</a>
+<a href="https://linkedin.com/in/your-linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=06B6D4&labelColor=0D1117" />
+</a>
+<a href="https://your-portfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F5FF&labelColor=0D1117" />
 </a>
 
-</p>
+</div>
 
----
+<br/>
 
-# 💬 Favorite Quote
+<div align="center">
 
-<p align="center">
+### 💬 "Code is like humor. When you have to explain it, it's bad." — *Cory House*
 
-> **"First, solve the problem. Then, write the code."**
+</div>
 
-</p>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1a3e,50:6d28d9,75:0891b2,100:0d1117&height=180&section=footer&animation=fadeIn"/>
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=im-fawad&theme=algolia&no-frame=true&margin-w=10"/>
+**Thanks for visiting my profile — let's build something amazing together! 🚀**
 
-</p>
-
----
-
-<p align="center">
-
-### Thanks for visiting my profile ❤️
-
-If you like my work, don't forget to ⭐ my repositories.
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C2FF&height=140&section=footer"/>
-
-</p>
+</div>
