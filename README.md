@@ -158,7 +158,7 @@
 
 </div>
 
-```dart
+
 class Fawad extends Developer {
   final String name = "Fawad Sajid";
   final String role = "Flutter Developer";
@@ -184,7 +184,7 @@ class Fawad extends Developer {
     }
   }
 }
-```
+
 
 <br/>
 
