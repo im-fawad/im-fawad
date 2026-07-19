@@ -77,8 +77,8 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=im-fawad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A78BFA&text_color=C9D1D9&ring_color=6D28D9&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-fawad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=8" width="30%" />
+<img src="https://github-stats-extended.vercel.app/api?username=im-fawad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A78BFA&text_color=C9D1D9&ring_color=6D28D9&count_private=true" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=im-fawad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=8" width="30%" />
 
 <br/><br/>
 
@@ -110,31 +110,31 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/im-fawad">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-fawad&repo=Student-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A78BFA&text_color=C9D1D9" width="100%"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=im-fawad&repo=Student-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A78BFA&text_color=C9D1D9" width="100%"/>
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/im-fawad">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-fawad&repo=Foodiez-Flutter-App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A78BFA&text_color=C9D1D9" width="100%"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/im-fawad">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-fawad&repo=Foodiez-Backend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A78BFA&text_color=C9D1D9" width="100%"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/im-fawad">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-fawad&repo=Portfolio-Website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A78BFA&text_color=C9D1D9" width="100%"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=im-fawad&repo=Foodiez-Flutter-App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A78BFA&text_color=C9D1D9" width="100%"/>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/im-fawad">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=im-fawad&repo=Flutter-UI-Collection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A78BFA&text_color=C9D1D9" width="100%"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=im-fawad&repo=Foodiez-Backend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A78BFA&text_color=C9D1D9" width="100%"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/im-fawad">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=im-fawad&repo=Portfolio-Website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A78BFA&text_color=C9D1D9" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/im-fawad">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=im-fawad&repo=Flutter-UI-Collection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A78BFA&text_color=C9D1D9" width="100%"/>
       </a>
     </td>
     <td width="50%"></td>
@@ -152,6 +152,8 @@
 ## 💻 Current Focus
 
 </div>
+
+```dart
 class Fawad extends Developer {
   final String name = "Fawad Sajid";
   final String role = "Flutter Developer";
@@ -177,6 +179,7 @@ class Fawad extends Developer {
     }
   }
 }
+```
 
 <br/>
 
